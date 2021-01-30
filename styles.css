@@ -86,4 +86,8 @@ body {
   #footer {
     font-size: .7rem;
   }
+
+  .text {
+    font-size: 2rem;
+  }
 }
